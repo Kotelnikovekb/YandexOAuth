@@ -254,5 +254,4 @@ android {
 
 Если вам понравился этот плагин, вы можете поддержать его разработку:
 
-* [**Донат через DonationAlerts**](https://www.donationalerts.com/r/kotelnikoff)
-* [**Донат через CloudTips**](https://pay.cloudtips.ru/p/c9462580)
+* [**Донат через DonationAlerts**](https://dalink.to/kotelnikoff_dev)
