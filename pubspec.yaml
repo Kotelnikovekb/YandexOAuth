@@ -1,4 +1,4 @@
-name: YandexOAuth
+name: yandexoauth
 description: Flutter plugin for native authorization via Yandex ID SDK on Android and iOS.
 version: 0.0.1
 homepage: https://github.com/Kotelnikovekb/YandexOAuth
