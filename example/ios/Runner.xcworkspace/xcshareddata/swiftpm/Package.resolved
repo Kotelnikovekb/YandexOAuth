@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "yandex-login-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yandexmobile/yandex-login-sdk-ios",
+      "state" : {
+        "revision" : "1e83ec1a36e0f417cfa3cbfbb05d8971cba14070",
+        "version" : "3.1.1"
+      }
+    }
+  ],
+  "version" : 2
+}
