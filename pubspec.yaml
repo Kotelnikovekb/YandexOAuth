@@ -1,6 +1,6 @@
 name: yandexoauth
 description: Flutter plugin for native authorization via Yandex ID SDK on Android and iOS.
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/Kotelnikovekb/YandexOAuth
 repository: https://github.com/Kotelnikovekb/YandexOAuth
 issue_tracker: https://github.com/Kotelnikovekb/YandexOAuth/issues
@@ -8,7 +8,7 @@ funding:
   - https://dalink.to/kotelnikoff_dev
 
 environment:
-  sdk: ^3.11.4
+  sdk: '>=2.18.0 <4.0.0'
   flutter: '>=3.3.0'
 
 dependencies:

@@ -1,4 +1,3 @@
-
 import 'src/models/fingerprint_model.dart';
 import 'src/models/yandex_auth_result.dart';
 import 'yandexoauth_platform_interface.dart';
@@ -6,6 +5,7 @@ import 'yandexoauth_platform_interface.dart';
 export 'src/exceptions/yandex_oauth_exception.dart';
 export 'src/models/fingerprint_model.dart';
 export 'src/models/yandex_auth_result.dart';
+export 'src/widgets/yandex_button.dart';
 
 class Yandexoauth {
   Future<String?> getPlatformVersion() {
